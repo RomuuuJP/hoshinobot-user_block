@@ -24,7 +24,7 @@ hoshinobot插件，手动拉黑用户插件
     
   .block0@QQ号1@QQ号2
   
-    将@用户取消拉黑
+    将QQ号用户取消拉黑
 
 
   .blockgid+小时数@群号1@群号2
@@ -33,7 +33,7 @@ hoshinobot插件，手动拉黑用户插件
     
   .block0@群号1@群号2
   
-    将@用户取消拉黑
+    将群取消拉黑
 注意：
 
   groupmaster下的anti_abuse.py的拉黑会覆盖该插件的用户拉黑。如不想受影响可以手动注释anti_abuse.py代码。
